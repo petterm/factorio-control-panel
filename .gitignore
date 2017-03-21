@@ -1,2 +1,27 @@
+# Server code
 node_modules
 static/pure.css
+.vscode
+
+# Client code
+# dependencies
+client/node_modules
+
+# testing
+client/coverage
+
+# production
+client/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# typings definitions (used with VS Code)
+client/typings
+
+# jsconfig for intellisense in VS Code
+client/jsconfig.json
